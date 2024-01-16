@@ -12,6 +12,7 @@ function Auth() {
 
         </div> 
         <h1 className=' mt-[2rem] text-white text-center font-bold text-xl'>Welcome to Live chat! </h1>
+        <p className='text-white text-center mt-1'>To get started please enter your name.</p>
         <div className='flex justify-center items-center  h-[90%]'>
         <Landing></Landing>
         </div>

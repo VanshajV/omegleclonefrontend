@@ -6,10 +6,10 @@ import Auth from './components/Auth'
 function App() {
   return (
     <BrowserRouter>
-    
     <Auth></Auth>
+    
       <Routes>
-        
+       
       </Routes>
     </BrowserRouter>
   )

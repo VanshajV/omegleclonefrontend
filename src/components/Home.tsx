@@ -9,17 +9,17 @@ function Home() {
 <div className='flex justify-center items-center'>
   <img src='icons8-chat-50.png' className='w-8'></img>
   <h1 className=' text-white text-[24px]'><b>: LIVE</b>Chat</h1>
+  
 </div>
 <div className=''>
 <div className=' flex gap-[82px]  text-white font-[400] h-[42px]  items-center' >
-<div className=' flex list-none space-x-[29px]'>
+<div className=' flex list-none items-center'>
+  <img  className='w-10' src='public\anonymity.png'></img>
   <li>Chat with random strangers!</li>
   
 
 </div>
-{/* <div className='  bg-[#EDB86F] h-[42px] flex items-center px-[15px] hid'>
-  <button className="">Make an Appointment</button>
-</div> */}
+
 </div>
 </div>
 
