@@ -200,7 +200,7 @@ export const Room = ({
     }, [localVideoRef])
 
     return <div className="">
-        <div className="bg-white h-[500px] w-[1000px] flex justify-center items-center rounded-md space-x-3">
+        <div className="bg-gray-300 h-[420px] w-[1000px] flex justify-center items-center rounded-md space-x-3">
         <div>
         
         <video className="  w-[30rem] h-[22.59rem] rounded-md border-white border-2 bg" autoPlay width={400} height={400} ref={remoteVideoRef} />
